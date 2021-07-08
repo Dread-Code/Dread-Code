@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://user-images.githubusercontent.com/60331479/124970162-30913d00-dfed-11eb-8fe2-08c65cd68929.png" />
    <h3 align="center">¡Hey 👋! I'm Lucas 👨🏻‍💻</h3>
 </p>
-
+<p align="center">A'm <strong>Full Stack Javascript Developer and Content Creator in progress</strong>.<br />¡Revisa mi contenido 👇!</p>
 <p align='center'>
 <a href="https://www.instagram.com/dreadfulcrazy/"><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>&nbsp;
 <a href="https://www.linkedin.com/in/lucas-ospina-b42a49119/"><img height="30" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;
