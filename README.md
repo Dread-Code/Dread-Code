@@ -25,7 +25,7 @@ const aboutMe = {
       tools:["Linux", "Storybook", "Jest", "Enzyme", "Docker", "Figma"],
       databases: ["MongoDB", "mySQL", "DB2"]
    },
-   currentOccupation: ["Full stack Analist Developer at Konecta Software Factory"],
+   currentOccupation: ["React developer at ITGlobers"],
    challenge: "I'm working towards being a excelent communicator.",
    learning: ["Elixir", "Functional Programing"]
 };
