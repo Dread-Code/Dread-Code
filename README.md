@@ -25,7 +25,7 @@ const aboutMe = {
       tools:["Linux", "Storybook", "Jest", "Enzyme", "Docker", "Figma"],
       databases: ["MongoDB", "mySQL", "DB2"]
    },
-   currentOccupation: ["React developer at ITGlobers"],
+   currentOccupation: ["Web UI developer SSA at GLOBANT"],
    challenge: "I'm working towards being a excelent communicator.",
    learning: ["Elixir", "Functional Programing"]
 };
