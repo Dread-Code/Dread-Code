@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS, Java, Elixir],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -27,7 +27,7 @@ const aboutMe = {
    },
    currentOccupation: ["Web UI developer SSA at GLOBANT"],
    challenge: "I'm working towards being a excelent communicator.",
-   learning: ["Elixir", "Functional Programing"]
+   learning: ["Phoenix", "Functional Programing"]
 };
 ```
 </br></br>
