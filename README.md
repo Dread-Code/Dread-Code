@@ -22,12 +22,13 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express", "Apollo"]
       },
+      paradigms: ["POO", "Functional"],
       tools:["Linux", "Storybook", "Jest", "Enzyme", "Docker", "Figma"],
       databases: ["MongoDB", "mySQL", "DB2"]
    },
    currentOccupation: ["Web UI developer SSA at GLOBANT"],
    challenge: "I'm working towards being a excelent communicator.",
-   learning: ["Phoenix", "Functional Programing"]
+   learning: ["Phoenix", "Unity"]
 };
 ```
 </br></br>
