@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/60331479?v=4" />
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/60331479/198042170-99aa9078-e98c-49f6-af90-bf4d23964bb3.png" />
    <h3 align="center">¡Hey 👋! I'm Lucas 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm <strong>Full Stack Javascript Developer and Content Creator in progress</strong>.<br />¡Check out 👇!</p>
