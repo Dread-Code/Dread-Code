@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, Elixir],
+   code: [Javascript, Typescript, HTML, CSS, Java, Elixir, Lua, C#],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -24,10 +24,11 @@ const aboutMe = {
       },
       paradigms: ["POO", "Functional"],
       tools:["Linux", "Storybook", "Jest", "Enzyme", "Docker", "Figma"],
-      databases: ["MongoDB", "mySQL", "DB2"]
+      databases: ["MongoDB", "mySQL", "DB2"],
+      gameEngiens: ["Unity", "LOVE2D"],
    },
    currentOccupation: ["Web UI developer SSA at GLOBANT"],
-   challenge: "I'm working towards being a excelent communicator.",
+   challenge: "I'm working towards being a excellent communicator.",
    learning: ["Phoenix", "Unity"]
 };
 ```
