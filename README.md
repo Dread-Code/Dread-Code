@@ -10,7 +10,7 @@
 </p>
 
 
-```javascript
+```typescript
 const aboutMe = {
    code: [Javascript, Typescript, Python, Lua, Elixir, Java, C#],
    technologies: {
