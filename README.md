@@ -4,7 +4,6 @@
 </p>
 <p align="center">I'm <strong>Full Stack Javascript Developer and Content Creator in progress</strong>.<br />¡Check out 👇!</p>
 <p align='center'>
-<a href="https://www.instagram.com/dreadfulcrazy/"><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>&nbsp;
 <a href="https://www.linkedin.com/in/lucas-ospina-b42a49119/"><img height="30" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>&nbsp;
  <a href="https://www.youtube.com/channel/UCgyd5zWh-6wt3Vj4KibS-oA"><img height="30" src="https://img.icons8.com/color/48/000000/youtube-play.png"></a>
 </p>
