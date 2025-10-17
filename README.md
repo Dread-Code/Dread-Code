@@ -12,22 +12,25 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, Elixir, Lua, C#],
+   code: [Javascript, Typescript, Python, Lua, Elixir, Java, C#],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Tailwind", "Materialize", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
+         js: ["Node", "Express", "Apollo"],
+         python: ["Fastapi"],
+         elixir: ["Phoenix"],
          java: ["Spring"],
-         js: ["Node", "Express", "Apollo"]
+         
       },
       paradigms: ["POO", "Functional"],
       tools:["Linux", "Storybook", "Jest", "Enzyme", "Docker", "Figma"],
-      databases: ["MongoDB", "mySQL", "DB2"],
+      databases: ["Postgres", "MongoDB",  "DB2"],
       gameEngiens: ["Unity", "LOVE2D"],
    },
-   currentOccupation: ["Web UI developer SSA at GLOBANT"],
+   currentOccupation: ["Fullstack developer SR at Bearing"],
    challenge: "I'm working towards being a excellent communicator.",
    learning: ["Phoenix", "Unity"]
 };
